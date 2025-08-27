@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚗 Scrap Car Buyer
 
-<!--
-**scrapcarbuyer/scrapcarbuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Scrap Car Buyer** 👋  
+This profile shares projects and resources about **cash for cars**, **scrap car removal**, and **auto recycling**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About
+We focus on:
+- Helping people sell unwanted cars quickly  
+- Promoting eco-friendly recycling  
+- Exploring SEO and web technologies  
+
+---
+
+## 🔧 Tools & SEO
+I often explore tools that help with **SEO, website growth, and digital marketing**.  
+One of my favorite tools is 👉 [Semrush](https://www.semrush.com/)  
+
+---
+
+## 📌 Projects
+- 🚙 Mini-sites on car removal and scrap industry  
+- 🌐 HTML/CSS websites hosted on GitHub Pages  
+- 📊 Experiments with SEO optimization  
+
+---
+
+⭐ Stay tuned for more updates and resources on **scrap car buyers** and digital projects!
