@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="0JY-VjoE7CBWcBr4gehYj5Ay2k5XlZhoga8aK0ixIus" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Scrap Car Buyer</title>
-  <meta name="google-site-verification" content="0JY-VjoE7CBWcBr4gehYj5Ay2k5XlZhoga8aK0ixIus" />
 </head>
 <body>
   <h1>🚗 Scrap Car Buyer</h1>
